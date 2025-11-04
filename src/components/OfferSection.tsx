@@ -19,7 +19,7 @@ export const OfferSection = () => {
             </Badge>
 
             <h2 className="mb-6 text-3xl font-bold text-primary-foreground md:text-4xl">
-              Por tempo limitado, você pode levar o Sérum Turbo Antiacne – Efeito Intensivo 7 Dias por apenas:
+              Por tempo limitado, você pode levar a receita do Sérum Turbo Antiacne – Efeito Intensivo 7 Dias por apenas:
             </h2>
 
             <div className="mb-4">
@@ -29,13 +29,6 @@ export const OfferSection = () => {
               <div className="text-5xl font-bold text-primary-foreground md:text-6xl">
                 💰 R$ 39,90
               </div>
-            </div>
-
-            <div className="mb-8 flex items-center justify-center gap-2 text-primary-foreground">
-              <Truck className="h-5 w-5" />
-              <span className="text-sm font-medium">
-                Disponível somente nesta página, com frete grátis combinado ao seu pedido
-              </span>
             </div>
 
             <Button 

@@ -10,6 +10,7 @@ export const ProductSection = () => {
             alt="Sérum Turbo Antiacne - Frasco profissional com fórmula intensiva para tratamento de acne"
             className="w-full rounded-2xl shadow-strong"
           />
+          <p className="text-sm text-muted-foreground">*Imagem meramente ilustrativa</p>
         </div>
       </div>
     </section>
